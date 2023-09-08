@@ -6,7 +6,7 @@ Counsels from St. Paisios - Good Thoughts and Evil Thoughts
 What is a
 .BI "logismos"
 ?
-.IP
+.QP
 The term
 .I "logismos"
 (reason, thought) in the ascetic writings denotes either a simple thought that passes through the mind, or an emotion of the soul directed toward good or evil, or even a good or evil tendency, which has been acquired with the help of the mind, the conscience, the emotions and the will. Since a thought precedes every action, for this reason the struggle of every believer, but primarily of every monastic, to be authentic, requires constant vigilance and examination of these thoughts in order to cultivate the good and discard the evil.
