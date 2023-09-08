@@ -26,7 +26,7 @@ A single good and pure thought has more power than any ascetic exercise. For exa
 Geronda, when you say "pure thought", are you referring to specific matters or to more general ones?
 .PP
 I am also referring to more general matters. For when man can see all things with good thoughts, he is purified and filled with the Grace of God. With evil thoughts one condemns and wrongs others, impedes the coming of divine Grace, and then the devil comes to do his evil work to us and in us.
-.br
+.QP
 .B "In other words, Geronda, do we give the devil the right to attack us just because we condemn someone?"
 .PP
 Yes. Everything starts from good thoughts. This is what elevates a person and changes him for the better. One must reach a point of being able to see all things in purity. It is as Christ said:
@@ -39,7 +39,7 @@ We must be careful not to accept the devil's evil messages, so as not to pollute
 .NH
 Geronda, I am anxious and can't sleep when I have a problem to deal with.
 .PP
-Your basic problem is your many thoughts. If you didn't have all these thoughts, you would be able to accomplish much more in your assigned duties and in your spiritual life. Here is one way to avoid all these thoughts: When you think of something that, let's say, needs to be done tomorrow, tell yourself, "This work is not for today, I will think about it tomorrow." Also, when you have to make a decision, do not trouble yourself with the thought of how to make the best decision, and thus end up constantly procrastinating. Make a decision and move on; then let God take care of the rest. Try to avoid being overly meticulous and scholastic about too many details, which will only confuse you r mind. Do whatever you are able to do with
+Your basic problem is your many thoughts. If you didn't have all these thoughts, you would be able to accomplish much more in your assigned duties and in your spiritual life. Here is one way to avoid all these thoughts: When you think of something that, let's say, needs to be done tomorrow, tell yourself, "This work is not for today, I will think about it tomorrow." Also, when you have to make a decision, do not trouble yourself with the thought of how to make the best decision, and thus end up constantly procrastinating. Make a decision and move on; then let God take care of the rest. Try to avoid being overly meticulous and scholastic about too many details, which will only confuse your mind. Do whatever you are able to do with
 .I "philotimo",
 simplicity and, above all, with great trust in God. This way we "oblige" God, in a manner of speaking, to help us, when we place our hopes and our future in His hands. Even a healthy person will become useless with too many thoughts running through his mind. One who is sick and suffering can justifiably have worrisome thoughts. But one who is healthy and yet becomes confused and suffers from
 .I "sinister"
