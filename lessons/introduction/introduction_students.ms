@@ -23,7 +23,7 @@ From the outside, they really look like super-men. A lot of them did miracles, a
 .IP \(bu 2
 What is a saint, from the Orthodox view?
 .IP \(bu 3
-They were transformed and sanctified through the Church, the spritiual hospital
+They were transformed and sanctified through the Church, the spiritual hospital
 .IP \(bu 3
 Spiritual struggle
 .IP \(bu 3
