@@ -10,14 +10,29 @@ What is a
 The term
 .I "logismos"
 (reason, thought) in the ascetic writings denotes either a simple thought that passes through the mind, or an emotion of the soul directed toward good or evil, or even a good or evil tendency, which has been acquired with the help of the mind, the conscience, the emotions and the will. Since a thought precedes every action, for this reason the struggle of every believer, but primarily of every monastic, to be authentic, requires constant vigilance and examination of these thoughts in order to cultivate the good and discard the evil.
+.br
+.IP \(bu 2
+The Holy Fathers teach us that our logismoi come from either God, the devil, or occur naturally. Like we just read above, we must be constantly examining our thoughts, keep the good ones and not hold on to the bad ones... Obviously, the ones that come from God are good and the ones that come from the devil are bad, but the ones that come from us naturally could be either good or bad. Because there is bad mixed with the good, it is better not to automatically trust all of our thoughts, but rather to question them.
+.IP \(bu 2
+.B "You are presented with an evil logismo"
+.IP \(bu 2
+Met. Athanasios of Limmasol - talk about the methods for dealing with bad thoughts
+.IP \(bu 2
+Talk about when you first learned about this. Share a little bit about what was going on in your life. Without spiritual life, I honestly would have just thought I was crazy
+.IP \(bu 2
+This is also why it is good to have a discerning (explain discerning afterward) spiritual father - tell them the thoughts that continually bother you and follow their advice
 .NH
 Geronda, in the Old Testament, in the book Macabees IV, it is written:
 .BI "For devout thought does not uproot the passions but is their antagonist."
 What does this mean?
 .PP
-The passions are deeply rooted in us, but the good, devout thought helps us to not become enslaved to them. When man brings only good thoughts to mind and establishes a strong and healthy spiritual state, then the passions lie dormant, and it is as if they did not exist. In other words, devout thoughts do not uproot the passions altogether, but combat them and can defeat them. I think the author is describing what the Holy Seven Young Men, their mother Saint Solomone and their teacher Saint Eleazar were able to endure by having good and devout thoughts, and thus is indicating precisely the extent of the power of good thoughts.
+The passions are deeply rooted in us, but the good, devout thought helps us to not become enslaved to them.
+
+.I "Explain what is a passion, and how we become enslaved to them"
+
+When man brings only good thoughts to mind and establishes a strong and healthy spiritual state, then the passions lie dormant, and it is as if they did not exist. In other words, devout thoughts do not uproot the passions altogether, but combat them and can defeat them. I think the author is describing what the Holy Seven Young Men, their mother Saint Solomone and their teacher Saint Eleazar were able to endure by having good and devout thoughts, and thus is indicating precisely the extent of the power of good thoughts.
 .PP
-One good thought is equal to a very long vigil! It is very powerful. Similar to how certain new weapons can intercept a missile at its base by using laser beams and prevent it from being fired, so good thoughts can also anticipate and immobilize evil thoiughts at the devil's "airports", where they are launched from. This is why you must struggle as much as you can - before the tempter devil has a chance to plant evil thoughts in your mind - to plant good thoughts and transform your heart into a flower garden, so that your prayer will be enriched by thte divine fragrance of your heart.
+One good thought is equal to a very long vigil! It is very powerful. Similar to how certain new weapons can intercept a missile at its base by using laser beams and prevent it from being fired, so good thoughts can also anticipate and immobilize evil thoughts at the devil's "airports", where they are launched from. This is why you must struggle as much as you can - before the tempter devil has a chance to plant evil thoughts in your mind - to plant good thoughts and transform your heart into a flower garden, so that your prayer will be enriched by thte divine fragrance of your heart.
 .PP
 When we hold even the slightest grudge, a small bad thought about anyone, any ascetic discipline we may undertake, such as fasting, vigils and so forth, will be in vain. What will be the use of such ascetic disciplines, if one does not struggle concurrently to prevent and reject all evil thoughts? Why not first empty the vessel of any impure residue oil, which is only good for making soap, before putting in the good oil; why should we mix good oil with filthy residue?
 .PP
@@ -45,7 +60,9 @@ simplicity and, above all, with great trust in God. This way we "oblige" God, in
 .I "sinister"
 thoughts, deserves a straitjacket! To be healthy and yet tormented by one's thoughts is a terrible sickness!
 .PP
-In our times, one of the greatest illnesses is the vain thoughts of worldly people. People can have all the good things in life except good thoughts. They are tormented simply through not facing up to things in a spiritual manner. For example, someone sets out to go somewhere but has a little car trouble and is a little late getting to his destination. If he has a good thought, he will say, "Perhaps the Benevolent God brought this delay in order to prevent a possible accident. How can I thank You, my God, for this?" So he praises God for the delay. On the contrary, if he does not have a good thought, he will not face the incident in a spiritual manner; he will curse and blame God: "What a misfortune, what a useless delay! And where is God in all this?"
+In our times, one of the greatest illnesses is the vain thoughts of worldly people. People can have all the good things in life except good thoughts.
+.UL "They are tormented simply through not facing up to things in a spiritual manner."
+For example, someone sets out to go somewhere but has a little car trouble and is a little late getting to his destination. If he has a good thought, he will say, "Perhaps the Benevolent God brought this delay in order to prevent a possible accident. How can I thank You, my God, for this?" So he praises God for the delay. On the contrary, if he does not have a good thought, he will not face the incident in a spiritual manner; he will curse and blame God: "What a misfortune, what a useless delay! And where is God in all this?"
 .PP
 When we accept whatever happens to us with a good and positive thought, we are helped; while on the contrary, we are tormented and come apart at the seams emotionally and physically when negative and evil thoughts prevail. Once, years ago, we got on a truck, which had some boards for seats, in order to go from Ouranoupolis (Chalkidiki) to Thessaloniki. The truck's interior was a mess; suitcases, orange crates, fish, empty and dirty fish crates being returned, students from the Athonias School, some sitting and some standing, monks, laypeople... One layman came and sat next to me. He was a little stout, and because he was somewhat squeezed, he began to complain loudly, "What a state!..." A little further inside the truck stood a poor monk surrounded by crates so you could only see his head. In the meantime, as the truck bumped its way along the cart track, the monk had to remain standing and hold on to the wobbling crates to prevent them from falling on him. With all of this going on, the other fellow was complaining of being squeezed a  little in his seating arrangements. So I told him, "How can you be complaining when you see what that monk is enduring?" So I asked the monk, "How are you managing, Father?" And with a smile he told me, "Geronda, it's better here than hell!" One man was tormented, even though he was able to sit, while the other was content to stand, and be virtually buried under all those crates. And this was a two-hour drive, not just a short ride. The layman's mind was on the comfort he would have had if he were riding on a bus, while the monk was thinking of the suffering in hell, and was happy enough to ride in a filthy truck. He was thinking, " We are going to reach our destination in two hours and get out, while the poor people in hell will be tormented forever. After all, there it is hell, and not some unpleasant accommodations. Glory be to God, it is better here".
 .NH
